@@ -12,9 +12,9 @@ A)	[22,27,16,2,18,6]  Insertion Sort
 
 B)	Big-O Gösterimini yazınız.
 
-n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2	
-Big-O notasyonu = O(n^2)
-# C)	18 sayısı bu durumda Average Case olur.
+##  n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2	
+##  Big-O notasyonu = O(n^2)
+C)	18 sayısı bu durumda Average Case olur.
 
 
 
