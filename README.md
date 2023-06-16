@@ -1,7 +1,7 @@
 # project1![WhatsApp Image 2023-06-17 at 01 00 22](https://github.com/muratoztin/project1/assets/111575893/68b7a179-fb7d-4eb3-ab4c-a1171cd34005)
 Problem 1:
 
-A)	22,27,16,2,18,6]  Insertion Sort
+A)	[22,27,16,2,18,6]  Insertion Sort
 
 ##	i.	[22, 27, 16, 2, 18, 6] 
 ##	ii.	[22, 27, 16, 2, 18, 6] 
