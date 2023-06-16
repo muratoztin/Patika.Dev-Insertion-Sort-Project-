@@ -14,7 +14,7 @@ B)	Big-O Gösterimini yazınız.
 
 n+(n-1)+(n-2)+(n-3)+(n-4)+1= (n(n+1))/2	
 Big-O notasyonu = O(n^2)
-iii.	18 sayısı bu durumda Average Case olur.
+# C)	18 sayısı bu durumda Average Case olur.
 
 
 
